@@ -22,8 +22,8 @@
 
 Here are a few projects I'm proud of:
 
-- 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
 - 🚀 [Email-Automation-Using-Alexa](https://github.com/ThakurTulsi/Email-Automation-Using-Alexa)
+- 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
 - 🔍 [FaceMaskDetection](https://github.com/ThakurTulsi/FaceMaskDetection)
 - 📈 [YouTubeDownloader](https://github.com/ThakurTulsi/YouTubeDownloader)
 
