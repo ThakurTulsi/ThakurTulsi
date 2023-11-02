@@ -1,14 +1,14 @@
-<h1 align="center" style="color: black;>Hello, I'm Tulsi Thakur 👋</h1>
+<h1 align="center" style="color: black;">Hello, I'm Tulsi Thakur 👋</h1>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/tulsi-thakur/]">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/tulsi-thakur/">LinkedIn</a> •
 </p>
 
 ## About Me
 
 - 🚀 Data Engineer with a passion for problem-solving and innovation.
-- 💡 Passionate about making difference through the work I do.
-- 🌱 Always eager to learn and stay up-to-date with the latest technologies, AI, NLP or anything related to tech!
+- 💡 Passionate about making a difference through the work I do.
+- 🌱 Always eager to learn and stay up-to-date with the latest technologies, AI, NLP, or anything related to tech!
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ Here are a few projects I'm proud of:
 - 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
 
 ## Let's Connect
-- 💼 [LinkedIn]: [[Your LinkedIn](https://www.linkedin.com/in/tulsi-thakur/)]
+- 💼 [LinkedIn]: [Your LinkedIn](https://www.linkedin.com/in/tulsi-thakur/)
 
 Feel free to explore my repositories and get in touch! I'm always open to exciting collaborations and discussions.
 
