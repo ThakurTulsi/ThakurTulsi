@@ -1,16 +1,14 @@
 <h1 align="center">Hello, I'm Tulsi Thakur 👋</h1>
 
 <p align="center">
-  <a href="[Your Website URL]">Website</a> •
-  <a href="[Your LinkedIn URL]">LinkedIn</a> •
-  <a href="[Your Twitter URL]">Twitter</a>
+  <a href="[https://www.linkedin.com/in/tulsi-thakur/]">LinkedIn</a> •
 </p>
 
 ## About Me
 
 - 🚀 Data Engineer with a passion for problem-solving and innovation.
-- 💡 I love to create software that makes a difference.
-- 🌱 Always eager to learn and stay up-to-date with the latest technologies, AI, or anything related to tech!
+- 💡 Passionate about making difference through the work I do.
+- 🌱 Always eager to learn and stay up-to-date with the latest technologies, AI, NLP or anything related to tech!
 
 ## Tech Stack
 
@@ -27,7 +25,7 @@ Here are a few projects I'm proud of:
 - 🚀 [Email-Automation-Using-Alexa](https://github.com/ThakurTulsi/Email-Automation-Using-Alexa)
 - 🔍 [FaceMaskDetection](https://github.com/ThakurTulsi/FaceMaskDetection)
 - 📈 [YouTubeDownloader](https://github.com/ThakurTulsi/YouTubeDownloader)
-- [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
+- 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
 
 ## Let's Connect
 - 💼 [LinkedIn]: [[Your LinkedIn](https://www.linkedin.com/in/tulsi-thakur/)]
