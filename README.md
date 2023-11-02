@@ -1,7 +1,7 @@
 <h1 align="center" style="color: black;">Hello, I'm Tulsi Thakur 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tulsi-thakur/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/tulsi-thakur/">LinkedIn</a>
 </p>
 
 ## About Me
