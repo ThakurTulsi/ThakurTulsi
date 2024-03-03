@@ -2,21 +2,20 @@
 
 ## About Me
 
-- 🚀 Data Engineer with a passion for problem-solving and innovation.
-- 💡 Passionate about making a difference through the work I do.
-- 🌱 Always eager to learn and stay up-to-date with the latest technologies, AI, NLP, or anything related to tech!
+- 💡 Passionate about problem-solving.
+- 🌱 Eager to learn, grow and upskill with the latest technologies.
 
 ## Tech Stack
 
 - 💻 [Languages]: C++, Python, Java
 - 📊 [Data]: MySQL, Oracle, PostgreSQL
-- 🤖 [AI/ML]: TensorFlow, Scikit-Learn
-- ☁️ [Cloud]: AWS, Google Cloud
+- 🤖 [AI/ML]: NumPy, TensorFlow, PyTorch
+- ☁️ [Cloud]: AWS
 - ⚙️ [Tools]: Git, VS Code
 
 ## My Projects
 
-Here are a few projects I'm proud of:
+These are a few projects I enjoyed while working on them.:
 
 - 🚀 [Email-Automation-Using-Alexa](https://github.com/ThakurTulsi/Email-Automation-Using-Alexa)
 - 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
@@ -28,4 +27,4 @@ Here are a few projects I'm proud of:
 
 Feel free to explore my repositories and get in touch! I'm always open to exciting collaborations and discussions.
 
-Happy Coding! 🚀
+Happy learning! 🚀
