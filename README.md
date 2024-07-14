@@ -7,16 +7,19 @@
 
 ## Tech Stack
 
-- 💻 [Languages]: C++, Python, Java
+- 💻 [Languages]: Python, C++, Java
 - 📊 [Data]: MySQL, Oracle, PostgreSQL
-- 🤖 [AI/ML]: NumPy, TensorFlow, PyTorch
+- 🤖 [Data Analysis & Science]: Pandas, NumPy, TensorFlow, PyTorch
+- 🤖 [Data Visualization]: Excel (Reporting/Dashboards)
 - ☁️ [Cloud]: AWS
 - ⚙️ [Tools]: Git, VS Code
 
 ## My Projects
 
 These are a few projects I enjoyed while working on them.:
-
+### Data Analysis & Visualization (Reporting)
+- 🚀 [Clothing_Store_Sales_Data_Analysis](https://github.com/ThakurTulsi/Clothing_Store_Sales_Data_Analysis)
+### Machine Learning & Deep Learning
 - 🚀 [Email-Automation-Using-Alexa](https://github.com/ThakurTulsi/Email-Automation-Using-Alexa)
 - 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
 - 🔍 [FaceMaskDetection](https://github.com/ThakurTulsi/FaceMaskDetection)
