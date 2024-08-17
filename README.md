@@ -8,15 +8,15 @@
 ## Tech Stack
 
 - 💻 [Languages]: Python, C++, Java
-- 📊 [Data]: MySQL, Oracle, PostgreSQL
-- 🤖 [Data Analysis & Science]: Pandas, NumPy, TensorFlow, PyTorch
+- 📊 [Data]: MySQL, Oracle
+- 🤖 [Data Analysis & Science]: Pandas, NumPy, Scikit Learn
 - 🤖 [Data Visualization]: Excel (Reporting/Dashboards)
 - ☁️ [Cloud]: AWS
 - ⚙️ [Tools]: Git, VS Code
 
 ## My Projects
 
-These are a few projects I enjoyed while working on them.:
+These are a few projects I enjoyed while working on them:
 ### Data Analysis & Visualization (Reporting)
 - 🚀 [Clothing_Store_Sales_Data_Analysis](https://github.com/ThakurTulsi/Clothing_Store_Sales_Data_Analysis)
 ### Machine Learning & Deep Learning
