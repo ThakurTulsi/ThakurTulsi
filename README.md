@@ -7,8 +7,8 @@
 
 ## Tech Stack
 
-- 💻 [Languages]: Python, C++, Java
-- 📊 [Data]: MySQL, Oracle
+- 💻 [Languages]: SQL, Python, C++, Java
+- 📊 [Relational Database]: MySQL, Oracle
 - 🤖 [Data Analysis & Science]: Pandas, NumPy, Scikit Learn
 - 🤖 [Data Visualization]: Excel (Reporting/Dashboards)
 - ☁️ [Cloud]: AWS
