@@ -9,9 +9,9 @@
 
 - 💻 [Languages]: SQL, Python, C++, Java
 - 📊 [Relational Database]: MySQL, Oracle
-- 🤖 [Data Analysis & Science]: Pandas, NumPy, Scikit Learn
+- 🤖 [Data Analysis & Science]: Pandas, NumPy, Matplotlib
 - 🤖 [Data Visualization]: Excel (Reporting/Dashboards)
-- ☁️ [Cloud]: AWS
+- ☁️ [Cloud]: AWS, GCP
 - ⚙️ [Tools]: Git, VS Code
 
 ## My Projects
