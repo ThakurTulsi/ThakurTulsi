@@ -18,6 +18,7 @@
 
 These are a few projects I enjoyed while working on them:
 ### Data Analysis & Visualization (Reporting)
+- 🚀 [Spotify Streamed Songs Analysis](https://github.com/ThakurTulsi/Spotify-Streamed-Songs-Data-Insights)
 - 🚀 [Clothing_Store_Sales_Data_Analysis](https://github.com/ThakurTulsi/Clothing_Store_Sales_Data_Analysis)
 ### Machine Learning & Deep Learning
 - 🚀 [Email-Automation-Using-Alexa](https://github.com/ThakurTulsi/Email-Automation-Using-Alexa)
