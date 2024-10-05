@@ -21,6 +21,7 @@ These are a few projects I enjoyed while working on them:
 - 🚀 [Spotify Streamed Songs Analysis](https://github.com/ThakurTulsi/Spotify-Streamed-Songs-Data-Insights)
 - 🚀 [Clothing_Store_Sales_Data_Analysis](https://github.com/ThakurTulsi/Clothing_Store_Sales_Data_Analysis)
 ### Machine Learning & Deep Learning
+- 🚀 [Hate Speech Recognition and Feedback System](https://github.com/ThakurTulsi/Hate_Speech_Recognition)
 - 🚀 [Email-Automation-Using-Alexa](https://github.com/ThakurTulsi/Email-Automation-Using-Alexa)
 - 💬 [MultilingualGreetingProgram](https://github.com/ThakurTulsi/MultilingualGreetingProgram)
 - 🔍 [FaceMaskDetection](https://github.com/ThakurTulsi/FaceMaskDetection)
